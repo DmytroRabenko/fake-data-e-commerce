@@ -2,7 +2,8 @@
   "catalog": [
     {
       "id": "1",
-      "category": ["recomended", "women"],
+      "mainCategory" : "recomended",
+      "category": "women",
       "title": "Тестер жіночої парфумерної води унісекс",
       "description": "аромат для чоловіків і жінок, належить до групи ароматів східні гурманські. Композиція аромату містить ноти: Квітка персика, Листя чаю, Півонія, Амбра, Зелений бузок, Мускус та Перуанський бальзам.",
       "brand": "Lanvin",
@@ -16,12 +17,12 @@
       "heartNote": "Амбра, Зелений бузок, Мускус",
       "finalNote": "Кедр, Китайський османтус, Птитгрейн",
       "code": "00001",
-      "images": ["/catalog/img1.jpg"],
-      "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+      "images": ["/catalog/img1.jpg"]
     },
       {
         "id": "2",
-        "category": ["sale", "men"],
+        "mainCategory" : "sale",
+        "category": "men",
         "title": "Тестер чоловічої парфумерної води",
         "description": "аромат для сучасного чоловіка. Стійкий та чуттєвий. Відкрийте для себе свою власну ароматичну сутність з Boss Bottled.",
         "brand": "Hugo Boss",
@@ -35,12 +36,12 @@
         "heartNote": "Герань, Кориця, Кріп",
         "finalNote": "Сандалове дерево, Ваніль, Кедр",
         "code": "00002",
-        "images": ["/catalog/img2.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
-      },
+        "images": ["/catalog/img2.jpg"]     
+       },
       {
         "id": "3",
-        "category": ["popular", "women"],
+        "mainCategory" : "popular",
+        "category": "women",
         "title": "Тестер жіночої парфумерної води",
         "description": "свіжий, орієнтально-квітковий аромат для сучасної жінки. Чуттєвий та елегантний.",
         "brand": "Chanel",
@@ -54,12 +55,12 @@
         "heartNote": "Рожевий перець, Жасмин, Рожеві ноти",
         "finalNote": "Пачулі, Ваніль, Ветівер",
         "code": "00003",
-        "images": ["/catalog/img3.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img3.jpg"]
       },
       {
         "id": "4",
-        "category": ["recomended", "men"],
+        "mainCategory" : "recomended",
+        "category": "men",
         "title": "Тестер чоловічої парфумерної води",
         "description": "аромат для сучасного чоловіка. Свіжий та привабливий, ідеальний для активного способу життя.",
         "brand": "Dior",
@@ -73,12 +74,12 @@
         "heartNote": "Сірчане дерево, Рожевий піпер",
         "finalNote": "Амбра, Сірчана деревина",
         "code": "00004",
-        "images": ["/catalog/img4.jpg"],
-        "reviews" : []
+        "images": ["/catalog/img4.jpg"]
       },
       {
         "id": "5",
-        "category": ["sale", "women"],
+        "mainCategory" : "sale",
+        "category": "women",
         "title": "Тестер жіночої парфумерної води",
         "description": "аромат, який втілює в собі квіткову елегантність та чуттєвість. Ідеальний для сучасних жінок.",
         "brand": "Gucci",
@@ -92,12 +93,12 @@
         "heartNote": "Сирійський лабданум",
         "finalNote": "Білий мускус, Ваніль",
         "code": "00005",
-        "images": ["/catalog/img5.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img5.jpg"]
       },
       {
         "id": "6",
-        "category": ["popular", "men"],
+        "mainCategory" : "popular",
+        "category": "men",
         "title": "Тестер чоловічої парфумерної води",
         "description": "аромат для сучасного та енергійного чоловіка. Стійкий та сексуальний.",
         "brand": "Paco Rabanne",
@@ -111,12 +112,12 @@
         "heartNote": "Рожевий корінь, Шафран",
         "finalNote": "Білий кедр, Ваніль, Бурбонський ваніль",
         "code": "00006",
-        "images": ["/catalog/img6.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img6.jpg"]
       },
       {
         "id": "7",
-        "category": ["new", "women"],
+        "mainCategory" : "new",
+        "category": "women",
         "title": "Тестер жіночої парфумерної води",
         "description": "аромат, що поєднує в собі чуттєвість та енергію. Ідеальний для нічних вечорів.",
         "brand": "Yves Saint Laurent",
@@ -130,12 +131,12 @@
         "heartNote": "Апельсиновий цвіт, Жасмин, Кавові зерна",
         "finalNote": "Ваніль, Кедр, Білий мускус",
         "code": "00007",
-        "images": ["/catalog/img7.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img7.jpg"]
       },
       {
         "id": "8",
-        "category": ["recomended", "men"],
+        "mainCategory" : "recomended",
+        "category": "men",
         "title": "Тестер чоловічої парфумерної води",
         "description": "свіжий та легкий аромат для сучасного чоловіка. Підходить для щоденного використання.",
         "brand": "Giorgio Armani",
@@ -149,12 +150,12 @@
         "heartNote": "Морські ноти, Ясмин, Розмарин",
         "finalNote": "Пачулі, Кедр, Білий мускус",
         "code": "00008",
-        "images": ["/catalog/img8.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img8.jpg"]
       },
       {
         "id": "9",
-        "category": ["sale", "women"],
+        "mainCategory" : "sale",
+        "category": "women",
         "title": "Тестер жіночої парфумерної води",
         "description": "невагомий та свіжий аромат для енергійної жінки. Ідеальний для весняно-літнього сезону.",
         "brand": "Marc Jacobs",
@@ -168,12 +169,12 @@
         "heartNote": "Жасмин, Роза, Фіалка",
         "finalNote": "Мускус, Дерева, Ваніль",
         "code": "00009",
-        "images": ["/catalog/img9.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img9.jpg"]
       },
       {
         "id": "10",
-        "category": ["popular", "men"],
+        "mainCategory" : "popular",
+        "category": "men",
         "title": "Тестер чоловічої парфумерної води",
         "description": "аромат, який втілює в собі силу та пристрасть. Стійкий та виразний.",
         "brand": "Versace",
@@ -187,12 +188,12 @@
         "heartNote": "Герань, Амброксан, Тонка боби",
         "finalNote": "Ваніль, Ветівер, Дерева",
         "code": "00010",
-        "images": ["/catalog/img10.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img10.jpg"]
       },
       {
         "id": "11",
-        "category": ["women"],
+        "mainCategory" : null,
+        "category": "women",
         "title": "Тестер жіночої парфумерної води",
         "description": "свіжий, фруктовий аромат, який призначений для яскравих та весняних настроїв. Легкий та енергійний.",
         "brand": "Dolce & Gabbana",
@@ -206,12 +207,12 @@
         "heartNote": "Бамбук, Рожевий квіт, Жасмин",
         "finalNote": "Амбра, Мускус, Кедр",
         "code": "00011",
-        "images": ["/catalog/img11.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img11.jpg"]
       },
       {
         "id": "12",
-        "category": ["recomended", "women"],
+        "mainCategory" : "recomended",
+        "category": "men",
         "title": "Тестер чоловічої парфумерної води",
         "description": "аромат для сучасного чоловіка. Стійкий та чуттєвий. Відкрийте для себе свою власну ароматичну сутність з Boss Bottled.",
         "brand": "Hugo Boss",
@@ -225,12 +226,12 @@
         "heartNote": "Герань, Кориця, Кріп",
         "finalNote": "Сандалове дерево, Ваніль, Кедр",
         "code": "00012",
-        "images": ["/catalog/img12.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img12.jpg"]
       },
       {
         "id": "13",
-        "category": ["sale", "women"],
+        "mainCategory" : "sale",
+        "category": "women",
         "title": "Тестер жіночої парфумерної води",
         "description": "аромат для жінок, що виражає сутність краси та радості життя. Запам'ятовуйте та залишайте свій слід.",
         "brand": "Lancome",
@@ -244,12 +245,12 @@
         "heartNote": "Жасмин, Апельсиновий цвіт, Персик",
         "finalNote": "Ваніль, Тонка, Пачулі",
         "code": "00013",
-        "images": ["/catalog/img13.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img13.jpg"]
       },
       {
         "id": "14",
-        "category": ["men"],
+        "mainCategory" : null,
+        "category": "men",
         "title": "Тестер чоловічої парфумерної води",
         "description": "свіжий та елегантний аромат для сучасного чоловіка. Ідеальний вибір для будь-якого дня.",
         "brand": "Dior",
@@ -263,12 +264,12 @@
         "heartNote": "Сандалове дерево, Пачулі, Рожевий перець",
         "finalNote": "Амбра, Ваніль, Кедр",
         "code": "00014",
-        "images": ["/catalog/img14.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img14.jpg"]
       },
       {
         "id": 15,
-        "category": ["popular", "women"],
+        "mainCategory" : "popular",
+        "category": "women",
         "title": "Тестер жіночої парфумерної води",
         "description": "яскравий та квітковий аромат для сучасної жінки. Розкішний та неповторний.",
         "brand": "Gucci",
@@ -282,12 +283,12 @@
         "heartNote": "Роза, Османтус, Геліотроп",
         "finalNote": "Мускус, Сандалове дерево, Ваніль",
         "code": "00015",
-        "images": ["/catalog/img15.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img15.jpg"]
       },
       {
         "id": 16,
-        "category": ["recomended", "men"],
+        "mainCategory" : "recomended",
+        "category": "men",
         "title": "Тестер чоловічої парфумерної води",
         "description": "свіжий та експресивний аромат для впевненого чоловіка. Завойовуйте світ разом з 1 Million.",
         "brand": "Paco Rabanne",
@@ -301,12 +302,12 @@
         "heartNote": "Живиця, Квітка помаранчі, Кориця",
         "finalNote": "Блакитна деревина, Пачулі, Ваніль",
         "code": "00016",
-        "images": ["/catalog/img16.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img16.jpg"]
       },
       {
         "id": "17",
-        "category": ["sale", "women"],
+        "mainCategory" : "sale",
+        "category": "women",
         "title": "Тестер жіночої парфумерної води",
         "description": "сексуальний та елегантний аромат для сучасної молодої жінки. Виразіть свою неперевершеність з Coco Mademoiselle.",
         "brand": "Chanel",
@@ -320,12 +321,12 @@
         "heartNote": "Жасмин, Рожевий перець, Іланг-іланг",
         "finalNote": "Пачулі, Ваніль, Білий мускус",
         "code": "00017",
-        "images": ["/catalog/img17.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img17.jpg"]
       },
       {
         "id": 18,
-        "category": ["men"],
+        "mainCategory" : null,
+        "category": "men",
         "title": "Тестер чоловічої парфумерної води",
         "description": "сексуальний та загадковий аромат для впевненого в собі чоловіка. На кожному кроці - La Nuit de L'Homme.",
         "brand": "Yves Saint Laurent",
@@ -339,12 +340,12 @@
         "heartNote": "Кедр, Сосна, Кумарин",
         "finalNote": "Ветівер, Кожа, Тонка",
         "code": "00018",
-        "images": ["/catalog/img18.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img18.jpg"]
       },
       {
         "id": "19",
-        "category": ["women"],
+        "mainCategory" : null,
+        "category": "women",
         "title": "Тестер жіночої парфумерної води",
         "description": "вишуканий та чуттєвий аромат для жінки, яка цінує елегантність та стиль. J'adore - ваш вибір.",
         "brand": "Dior",
@@ -358,12 +359,12 @@
         "heartNote": "Жасмин, Тюльпан, Лілія",
         "finalNote": "Ваніль, Сандалове дерево, Мускус",
         "code": "00019",
-        "images": ["/catalog/img19.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img19.jpg"]
       },
       {
         "id": 20,
-        "category": ["recomended", "men"],
+        "mainCategory" : "recomended",
+        "category": "men",
         "title": "Тестер чоловічої парфумерної води",
         "description": "свіжий та акватичний аромат для чоловіка, який цінує легкість та свободу. Acqua di Gio - вираз вашої пригодницької душі.",
         "brand": "Giorgio Armani",
@@ -377,12 +378,12 @@
         "heartNote": "Рожевий перець, Морська лаванда, Пачулі",
         "finalNote": "Білий мускус, Сандалове дерево, Амбра",
         "code": "00020",
-        "images": ["/catalog/img20.jpg"],
-        "reviews" : []
+        "images": ["/catalog/img20.jpg"]
       },
       {
         "id": "21",
-        "category": ["recomended", "women"],
+        "mainCategory" : "recomended",
+        "category": "women",
         "title": "Тестер жіночої парфумерної води унісекс",
         "description": "аромат для чоловіків і жінок, належить до групи ароматів східні гурманські. Композиція аромату містить ноти: Квітка персика, Листя чаю, Півонія, Амбра, Зелений бузок, Мускус та Перуанський бальзам.",
         "brand": "Lanvin",
@@ -396,12 +397,12 @@
         "heartNote": "Амбра, Зелений бузок, Мускус",
         "finalNote": "Кедр, Китайський османтус, Птитгрейн",
         "code": "00021",
-        "images": ["/catalog/img1.jpg"],
-        "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+        "images": ["/catalog/img1.jpg"]
       },
         {
           "id": 22,
-          "category": ["sale", "men"],
+          "mainCategory" : "sale", 
+          "category": "men",
           "title": "Тестер чоловічої парфумерної води",
           "description": "аромат для сучасного чоловіка. Стійкий та чуттєвий. Відкрийте для себе свою власну ароматичну сутність з Boss Bottled.",
           "brand": "Hugo Boss",
@@ -415,12 +416,12 @@
           "heartNote": "Герань, Кориця, Кріп",
           "finalNote": "Сандалове дерево, Ваніль, Кедр",
           "code": "00022",
-          "images": ["/catalog/img2.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img2.jpg"]
         },
         {
           "id": "23",
-          "category": ["popular", "women"],
+          "mainCategory" : "popular", 
+          "category": "women",
           "title": "Тестер жіночої парфумерної води",
           "description": "свіжий, орієнтально-квітковий аромат для сучасної жінки. Чуттєвий та елегантний.",
           "brand": "Chanel",
@@ -434,12 +435,12 @@
           "heartNote": "Рожевий перець, Жасмин, Рожеві ноти",
           "finalNote": "Пачулі, Ваніль, Ветівер",
           "code": "00023",
-          "images": ["/catalog/img3.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img3.jpg"]
         },
         {
           "id": "24",
-          "category": ["recomended", "men"],
+          "mainCategory" : "recomended",
+          "category": "men",
           "title": "Тестер чоловічої парфумерної води",
           "description": "аромат для сучасного чоловіка. Свіжий та привабливий, ідеальний для активного способу життя.",
           "brand": "Dior",
@@ -453,12 +454,12 @@
           "heartNote": "Сірчане дерево, Рожевий піпер",
           "finalNote": "Амбра, Сірчана деревина",
           "code": "00024",
-          "images": ["/catalog/img4.jpg"],
-          "reviews" : []
+          "images": ["/catalog/img4.jpg"]
         },
         {
           "id": 25,
-          "category": ["sale", "women"],
+          "mainCategory" : "sale",
+          "category": "women",
           "title": "Тестер жіночої парфумерної води",
           "description": "аромат, який втілює в собі квіткову елегантність та чуттєвість. Ідеальний для сучасних жінок.",
           "brand": "Gucci",
@@ -472,12 +473,12 @@
           "heartNote": "Сирійський лабданум",
           "finalNote": "Білий мускус, Ваніль",
           "code": "00025",
-          "images": ["/catalog/img5.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img5.jpg"]
         },
         {
           "id": "26",
-          "category": ["popular", "men"],
+          "mainCategory" : "popular", 
+          "category": "men",
           "title": "Тестер чоловічої парфумерної води",
           "description": "аромат для сучасного та енергійного чоловіка. Стійкий та сексуальний.",
           "brand": "Paco Rabanne",
@@ -491,12 +492,12 @@
           "heartNote": "Рожевий корінь, Шафран",
           "finalNote": "Білий кедр, Ваніль, Бурбонський ваніль",
           "code": "00026",
-          "images": ["/catalog/img6.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img6.jpg"]
         },
         {
           "id": "27",
-          "category": ["new", "women"],
+          "mainCategory" : "new", 
+          "category": "women",
           "title": "Тестер жіночої парфумерної води",
           "description": "аромат, що поєднує в собі чуттєвість та енергію. Ідеальний для нічних вечорів.",
           "brand": "Yves Saint Laurent",
@@ -510,12 +511,12 @@
           "heartNote": "Апельсиновий цвіт, Жасмин, Кавові зерна",
           "finalNote": "Ваніль, Кедр, Білий мускус",
           "code": "00027",
-          "images": ["/catalog/img7.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img7.jpg"]
         },
         {
           "id": "28",
-          "category": ["recomended", "men"],
+          "mainCategory" : "recomended",
+          "category": "men",
           "title": "Тестер чоловічої парфумерної води",
           "description": "свіжий та легкий аромат для сучасного чоловіка. Підходить для щоденного використання.",
           "brand": "Giorgio Armani",
@@ -529,12 +530,12 @@
           "heartNote": "Морські ноти, Ясмин, Розмарин",
           "finalNote": "Пачулі, Кедр, Білий мускус",
           "code": "00028",
-          "images": ["/catalog/img8.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img8.jpg"]
         },
         {
           "id": "29",
-          "category": ["sale", "women"],
+          "mainCategory" : "sale",
+          "category": "women",
           "title": "Тестер жіночої парфумерної води",
           "description": "невагомий та свіжий аромат для енергійної жінки. Ідеальний для весняно-літнього сезону.",
           "brand": "Marc Jacobs",
@@ -548,12 +549,12 @@
           "heartNote": "Жасмин, Роза, Фіалка",
           "finalNote": "Мускус, Дерева, Ваніль",
           "code": "000029",
-          "images": ["/catalog/img9.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img9.jpg"]
         },
         {
           "id": 30,
-          "category": ["popular", "men"],
+          "mainCategory" : "popular", 
+          "category": "men",
           "title": "Тестер чоловічої парфумерної води",
           "description": "аромат, який втілює в собі силу та пристрасть. Стійкий та виразний.",
           "brand": "Versace",
@@ -567,12 +568,12 @@
           "heartNote": "Герань, Амброксан, Тонка боби",
           "finalNote": "Ваніль, Ветівер, Дерева",
           "code": "00030",
-          "images": ["/catalog/img10.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img10.jpg"]
         },
         {
           "id": "31",
-          "category": ["women"],
+          "mainCategory" : null,
+          "category": "women",
           "title": "Тестер жіночої парфумерної води",
           "description": "свіжий, фруктовий аромат, який призначений для яскравих та весняних настроїв. Легкий та енергійний.",
           "brand": "Dolce & Gabbana",
@@ -586,12 +587,12 @@
           "heartNote": "Бамбук, Рожевий квіт, Жасмин",
           "finalNote": "Амбра, Мускус, Кедр",
           "code": "00031",
-          "images": ["/catalog/img11.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img11.jpg"]
         },
         {
           "id": "32",
-          "category": ["recomended", "men"],
+          "mainCategory" : "recomended",
+          "category": "men",
           "title": "Тестер чоловічої парфумерної води",
           "description": "аромат для сучасного чоловіка. Стійкий та чуттєвий. Відкрийте для себе свою власну ароматичну сутність з Boss Bottled.",
           "brand": "Hugo Boss",
@@ -605,12 +606,12 @@
           "heartNote": "Герань, Кориця, Кріп",
           "finalNote": "Сандалове дерево, Ваніль, Кедр",
           "code": "00032",
-          "images": ["/catalog/img12.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img12.jpg"]
         },
         {
           "id": "33",
-          "category": ["sale", "women"],
+          "mainCategory" : "sale",
+          "category": "women",
           "title": "Тестер жіночої парфумерної води",
           "description": "аромат для жінок, що виражає сутність краси та радості життя. Запам'ятовуйте та залишайте свій слід.",
           "brand": "Lancome",
@@ -624,12 +625,12 @@
           "heartNote": "Жасмин, Апельсиновий цвіт, Персик",
           "finalNote": "Ваніль, Тонка, Пачулі",
           "code": "00033",
-          "images": ["/catalog/img13.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img13.jpg"]
         },
         {
           "id": "34",
-          "category": ["men"],
+          "mainCategory" : null,
+          "category": "men",
           "title": "Тестер чоловічої парфумерної води",
           "description": "свіжий та елегантний аромат для сучасного чоловіка. Ідеальний вибір для будь-якого дня.",
           "brand": "Dior",
@@ -643,12 +644,12 @@
           "heartNote": "Сандалове дерево, Пачулі, Рожевий перець",
           "finalNote": "Амбра, Ваніль, Кедр",
           "code": "00034",
-          "images": ["/catalog/img14.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img14.jpg"]
         },
         {
           "id": "35",
-          "category": ["popular", "women"],
+          "mainCategory" : "popular", 
+          "category": "women",
           "title": "Тестер жіночої парфумерної води",
           "description": "яскравий та квітковий аромат для сучасної жінки. Розкішний та неповторний.",
           "brand": "Gucci",
@@ -662,12 +663,12 @@
           "heartNote": "Роза, Османтус, Геліотроп",
           "finalNote": "Мускус, Сандалове дерево, Ваніль",
           "code": "00035",
-          "images": ["/catalog/img15.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img15.jpg"]
         },
         {
           "id": "36",
-          "category": ["recomended", "men"],
+          "mainCategory" : "recomended",
+          "category": "men",
           "title": "Тестер чоловічої парфумерної води",
           "description": "свіжий та експресивний аромат для впевненого чоловіка. Завойовуйте світ разом з 1 Million.",
           "brand": "Paco Rabanne",
@@ -681,12 +682,12 @@
           "heartNote": "Живиця, Квітка помаранчі, Кориця",
           "finalNote": "Блакитна деревина, Пачулі, Ваніль",
           "code": "00036",
-          "images": ["/catalog/img16.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img16.jpg"]
         },
         {
           "id": "37",
-          "category": ["sale", "women"],
+          "mainCategory" : "sale",
+          "category": "women",
           "title": "Тестер жіночої парфумерної води",
           "description": "сексуальний та елегантний аромат для сучасної молодої жінки. Виразіть свою неперевершеність з Coco Mademoiselle.",
           "brand": "Chanel",
@@ -700,12 +701,12 @@
           "heartNote": "Жасмин, Рожевий перець, Іланг-іланг",
           "finalNote": "Пачулі, Ваніль, Білий мускус",
           "code": "00037",
-          "images": ["/catalog/img17.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img17.jpg"]
         },
         {
           "id": "38",
-          "category": ["men"],
+          "mainCategory" : null,
+          "category": "men",
           "title": "Тестер чоловічої парфумерної води",
           "description": "сексуальний та загадковий аромат для впевненого в собі чоловіка. На кожному кроці - La Nuit de L'Homme.",
           "brand": "Yves Saint Laurent",
@@ -719,12 +720,12 @@
           "heartNote": "Кедр, Сосна, Кумарин",
           "finalNote": "Ветівер, Кожа, Тонка",
           "code": "00038",
-          "images": ["/catalog/img18.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img18.jpg"]
         },
         {
           "id": "39",
-          "category": ["women"],
+          "mainCategory" : null,
+          "category": "women",
           "title": "Тестер жіночої парфумерної води",
           "description": "вишуканий та чуттєвий аромат для жінки, яка цінує елегантність та стиль. J'adore - ваш вибір.",
           "brand": "Dior",
@@ -738,12 +739,12 @@
           "heartNote": "Жасмин, Тюльпан, Лілія",
           "finalNote": "Ваніль, Сандалове дерево, Мускус",
           "code": "00039",
-          "images": ["/catalog/img19.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+          "images": ["/catalog/img19.jpg"]
         },
         {
           "id": "40",
-          "category": ["recomended", "men"],
+          "mainCategory" : "recomended",
+          "category": "men",
           "title": "Тестер чоловічої парфумерної води",
           "description": "свіжий та акватичний аромат для чоловіка, який цінує легкість та свободу. Acqua di Gio - вираз вашої пригодницької душі.",
           "brand": "Giorgio Armani",
@@ -757,12 +758,12 @@
           "heartNote": "Рожевий перець, Морська лаванда, Пачулі",
           "finalNote": "Білий мускус, Сандалове дерево, Амбра",
           "code": "00040",
-          "images": ["/catalog/img20.jpg"],
-          "reviews" : []
+          "images": ["/catalog/img20.jpg"]
         },
         {
           "id": "41",
-          "category": ["recomended", "women"],
+          "mainCategory" : "recomended",
+          "category": "women",
           "title": "Тестер жіночої парфумерної води унісекс",
           "description": "аромат для чоловіків і жінок, належить до групи ароматів східні гурманські. Композиція аромату містить ноти: Квітка персика, Листя чаю, Півонія, Амбра, Зелений бузок, Мускус та Перуанський бальзам.",
           "brand": "Lanvin",
@@ -776,12 +777,12 @@
           "heartNote": "Амбра, Зелений бузок, Мускус",
           "finalNote": "Кедр, Китайський османтус, Птитгрейн",
           "code": "00041",
-          "images": ["/catalog/img1.jpg"],
-          "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
-        },
+          "images": ["/catalog/img1.jpg"]
+                },
           {
             "id": "42",
-            "category": ["sale", "men"],
+            "mainCategory" : "sale", 
+            "category": "men",
             "title": "Тестер чоловічої парфумерної води",
             "description": "аромат для сучасного чоловіка. Стійкий та чуттєвий. Відкрийте для себе свою власну ароматичну сутність з Boss Bottled.",
             "brand": "Hugo Boss",
@@ -795,12 +796,12 @@
             "heartNote": "Герань, Кориця, Кріп",
             "finalNote": "Сандалове дерево, Ваніль, Кедр",
             "code": "00042",
-            "images": ["/catalog/img2.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img2.jpg"]
           },
           {
             "id": "43",
-            "category": ["popular", "women"],
+            "mainCategory" : "popular", 
+            "category": "women",
             "title": "Тестер жіночої парфумерної води",
             "description": "свіжий, орієнтально-квітковий аромат для сучасної жінки. Чуттєвий та елегантний.",
             "brand": "Chanel",
@@ -814,12 +815,12 @@
             "heartNote": "Рожевий перець, Жасмин, Рожеві ноти",
             "finalNote": "Пачулі, Ваніль, Ветівер",
             "code": "00043",
-            "images": ["/catalog/img3.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
-          },
+            "images": ["/catalog/img3.jpg"]
+                    },
           {
             "id": "44",
-            "category": ["recomended", "men"],
+            "mainCategory" : "recomended",
+            "category": "men",
             "title": "Тестер чоловічої парфумерної води",
             "description": "аромат для сучасного чоловіка. Свіжий та привабливий, ідеальний для активного способу життя.",
             "brand": "Dior",
@@ -833,12 +834,12 @@
             "heartNote": "Сірчане дерево, Рожевий піпер",
             "finalNote": "Амбра, Сірчана деревина",
             "code": "00044",
-            "images": ["/catalog/img4.jpg"],
-            "reviews" : []
+            "images": ["/catalog/img4.jpg"]
           },
           {
             "id": "45",
-            "category": ["sale", "women"],
+            "mainCategory" : "sale",
+            "category": "women",
             "title": "Тестер жіночої парфумерної води",
             "description": "аромат, який втілює в собі квіткову елегантність та чуттєвість. Ідеальний для сучасних жінок.",
             "brand": "Gucci",
@@ -852,12 +853,12 @@
             "heartNote": "Сирійський лабданум",
             "finalNote": "Білий мускус, Ваніль",
             "code": "00045",
-            "images": ["/catalog/img5.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
-          },
+            "images": ["/catalog/img5.jpg"]
+                    },
           {
             "id": "46",
-            "category": ["popular", "men"],
+            "mainCategory" : "popular", 
+            "category": "men",
             "title": "Тестер чоловічої парфумерної води",
             "description": "аромат для сучасного та енергійного чоловіка. Стійкий та сексуальний.",
             "brand": "Paco Rabanne",
@@ -871,12 +872,12 @@
             "heartNote": "Рожевий корінь, Шафран",
             "finalNote": "Білий кедр, Ваніль, Бурбонський ваніль",
             "code": "00046",
-            "images": ["/catalog/img6.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img6.jpg"]
           },
           {
             "id": "47",
-            "category": ["new", "women"],
+            "mainCategory" : "new", 
+            "category": "women",
             "title": "Тестер жіночої парфумерної води",
             "description": "аромат, що поєднує в собі чуттєвість та енергію. Ідеальний для нічних вечорів.",
             "brand": "Yves Saint Laurent",
@@ -890,12 +891,12 @@
             "heartNote": "Апельсиновий цвіт, Жасмин, Кавові зерна",
             "finalNote": "Ваніль, Кедр, Білий мускус",
             "code": "00047",
-            "images": ["/catalog/img7.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
-          },
+            "images": ["/catalog/img7.jpg"]
+                    },
           {
             "id": "48",
-            "category": ["recomended", "men"],
+            "mainCategory" : "recomended",
+            "category": "men",
             "title": "Тестер чоловічої парфумерної води",
             "description": "свіжий та легкий аромат для сучасного чоловіка. Підходить для щоденного використання.",
             "brand": "Giorgio Armani",
@@ -909,12 +910,12 @@
             "heartNote": "Морські ноти, Ясмин, Розмарин",
             "finalNote": "Пачулі, Кедр, Білий мускус",
             "code": "00048",
-            "images": ["/catalog/img8.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img8.jpg"]
           },
           {
             "id": "49",
-            "category": ["sale", "women"],
+            "mainCategory" : "sale",
+            "category": "women",
             "title": "Тестер жіночої парфумерної води",
             "description": "невагомий та свіжий аромат для енергійної жінки. Ідеальний для весняно-літнього сезону.",
             "brand": "Marc Jacobs",
@@ -928,12 +929,12 @@
             "heartNote": "Жасмин, Роза, Фіалка",
             "finalNote": "Мускус, Дерева, Ваніль",
             "code": "00049",
-            "images": ["/catalog/img9.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img9.jpg"]
           },
           {
             "id": "50",
-            "category": ["popular", "men"],
+            "mainCategory" : "popular", 
+            "category": "men",
             "title": "Тестер чоловічої парфумерної води",
             "description": "аромат, який втілює в собі силу та пристрасть. Стійкий та виразний.",
             "brand": "Versace",
@@ -947,12 +948,12 @@
             "heartNote": "Герань, Амброксан, Тонка боби",
             "finalNote": "Ваніль, Ветівер, Дерева",
             "code": "00050",
-            "images": ["/catalog/img10.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img10.jpg"]
           },
           {
             "id": "51",
-            "category": ["women"],
+            "mainCategory" : null,
+            "category": "women",
             "title": "Тестер жіночої парфумерної води",
             "description": "свіжий, фруктовий аромат, який призначений для яскравих та весняних настроїв. Легкий та енергійний.",
             "brand": "Dolce & Gabbana",
@@ -966,12 +967,12 @@
             "heartNote": "Бамбук, Рожевий квіт, Жасмин",
             "finalNote": "Амбра, Мускус, Кедр",
             "code": "00051",
-            "images": ["/catalog/img11.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img11.jpg"]
           },
           {
             "id": "52",
-            "category": ["recomended", "men"],
+            "mainCategory" : "recomended",
+            "category": "men",
             "title": "Тестер чоловічої парфумерної води",
             "description": "аромат для сучасного чоловіка. Стійкий та чуттєвий. Відкрийте для себе свою власну ароматичну сутність з Boss Bottled.",
             "brand": "Hugo Boss",
@@ -985,12 +986,12 @@
             "heartNote": "Герань, Кориця, Кріп",
             "finalNote": "Сандалове дерево, Ваніль, Кедр",
             "code": "00052",
-            "images": ["/catalog/img12.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img12.jpg"]
           },
           {
             "id": "53",
-            "category": ["sale", "women"],
+            "mainCategory" : "sale",
+            "category": "women",
             "title": "Тестер жіночої парфумерної води",
             "description": "аромат для жінок, що виражає сутність краси та радості життя. Запам'ятовуйте та залишайте свій слід.",
             "brand": "Lancome",
@@ -1004,12 +1005,12 @@
             "heartNote": "Жасмин, Апельсиновий цвіт, Персик",
             "finalNote": "Ваніль, Тонка, Пачулі",
             "code": "00053",
-            "images": ["/catalog/img13.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img13.jpg"]
           },
           {
             "id": "54",
-            "category": ["men"],
+            "mainCategory" : null,
+            "category": "men",
             "title": "Тестер чоловічої парфумерної води",
             "description": "свіжий та елегантний аромат для сучасного чоловіка. Ідеальний вибір для будь-якого дня.",
             "brand": "Dior",
@@ -1023,12 +1024,12 @@
             "heartNote": "Сандалове дерево, Пачулі, Рожевий перець",
             "finalNote": "Амбра, Ваніль, Кедр",
             "code": "00054",
-            "images": ["/catalog/img14.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img14.jpg"]
           },
           {
             "id": "55",
-            "category": ["popular", "women"],
+            "mainCategory" : "popular", 
+            "category": "women",
             "title": "Тестер жіночої парфумерної води",
             "description": "яскравий та квітковий аромат для сучасної жінки. Розкішний та неповторний.",
             "brand": "Gucci",
@@ -1042,12 +1043,12 @@
             "heartNote": "Роза, Османтус, Геліотроп",
             "finalNote": "Мускус, Сандалове дерево, Ваніль",
             "code": "00055",
-            "images": ["/catalog/img15.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img15.jpg"]
           },
           {
             "id": "56",
-            "category": ["recomended", "men"],
+            "mainCategory" : "recomended",
+            "category": "men",
             "title": "Тестер чоловічої парфумерної води",
             "description": "свіжий та експресивний аромат для впевненого чоловіка. Завойовуйте світ разом з 1 Million.",
             "brand": "Paco Rabanne",
@@ -1061,12 +1062,12 @@
             "heartNote": "Живиця, Квітка помаранчі, Кориця",
             "finalNote": "Блакитна деревина, Пачулі, Ваніль",
             "code": "00056",
-            "images": ["/catalog/img16.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img16.jpg"]
           },
           {
             "id": "57",
-            "category": ["sale", "women"],
+            "mainCategory" : "sale",
+            "category": "women",
             "title": "Тестер жіночої парфумерної води",
             "description": "сексуальний та елегантний аромат для сучасної молодої жінки. Виразіть свою неперевершеність з Coco Mademoiselle.",
             "brand": "Chanel",
@@ -1080,12 +1081,12 @@
             "heartNote": "Жасмин, Рожевий перець, Іланг-іланг",
             "finalNote": "Пачулі, Ваніль, Білий мускус",
             "code": "00057",
-            "images": ["/catalog/img17.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img17.jpg"]
           },
           {
             "id": "58",
-            "category": ["men"],
+            "mainCategory" : null,
+            "category": "men",
             "title": "Тестер чоловічої парфумерної води",
             "description": "сексуальний та загадковий аромат для впевненого в собі чоловіка. На кожному кроці - La Nuit de L'Homme.",
             "brand": "Yves Saint Laurent",
@@ -1099,12 +1100,12 @@
             "heartNote": "Кедр, Сосна, Кумарин",
             "finalNote": "Ветівер, Кожа, Тонка",
             "code": "00058",
-            "images": ["/catalog/img18.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img18.jpg"]
           },
           {
             "id": "59",
-            "category": ["women"],
+            "mainCategory" : null,
+            "category": "women",
             "title": "Тестер жіночої парфумерної води",
             "description": "вишуканий та чуттєвий аромат для жінки, яка цінує елегантність та стиль. J'adore - ваш вибір.",
             "brand": "Dior",
@@ -1118,12 +1119,12 @@
             "heartNote": "Жасмин, Тюльпан, Лілія",
             "finalNote": "Ваніль, Сандалове дерево, Мускус",
             "code": "00059",
-            "images": ["/catalog/img19.jpg"],
-            "reviews" : [{"name": "inna", "text": "Чудовий аромат, все сподобалось", "rating": "5", "date": "5 10 2023"}]
+            "images": ["/catalog/img19.jpg"]
           },
           {
             "id": "60",
-            "category": ["recomended", "men"],
+            "mainCategory" : "recomended",
+            "category": "men",
             "title": "Тестер чоловічої парфумерної води",
             "description": "свіжий та акватичний аромат для чоловіка, який цінує легкість та свободу. Acqua di Gio - вираз вашої пригодницької душі.",
             "brand": "Giorgio Armani",
@@ -1137,12 +1138,11 @@
             "heartNote": "Рожевий перець, Морська лаванда, Пачулі",
             "finalNote": "Білий мускус, Сандалове дерево, Амбра",
             "code": "00060",
-            "images": ["/catalog/img20.jpg"],
-            "reviews" : []
-          }
+            "images": ["/catalog/img20.jpg"]
+                    }
   ],
-  "category": {
-    "productCategory": [
+  "categories" : {
+    "category": [
       {"title":"Чоловічі парфуми", "id":"1", "value": "men"},
       {"title":"Жіночі парфуми", "id":"2", "value": "women"},
       {"title":"Парфуми для будинку", "id":"3", "value": "house"},
@@ -1153,7 +1153,7 @@
       {"title":"Інша парфумерна продукція", "id":"8", "value": "other"},
       {"title":"Всі товари", "id":"9", "value": "all"}
     ],
-    "generalCategory": [
+    "mainCategory": [
       {"title":"Рекомендуємо", "id":"1", "value": "recomended"},
       {"title":"Розпродаж", "id":"2", "value": "sale"},
       {"title":"Популярне", "id":"3", "value": "popula"},
@@ -1161,35 +1161,35 @@
     ]
   },
   "reviews": [
-    {"name": "Анна", "text": "Аромат просто чудовий, не могла відірвати ніс від запаху!", "rating": "5", "date": "15.06.2023", "id": 2},
-    {"name": "Вікторія", "text": "Ваш магазин - справжнє джерело чарівних ароматів!", "rating": "4", "date": "22.06.2023", "id": 3},
-    {"name": "Євгенія", "text": "Приємно здивована якістю парфумів, обов'язково повернусь!", "rating": "5", "date": "03.07.2023", "id": 4},
-    {"name": "Марія", "text": "Аромат як витвір мистецтва, неймовірно задоволена покупкою.", "rating": "5", "date": "12.07.2023", "id": 5},
-    {"name": "Катерина", "text": "Магазин вразив своєю різноманітністю ароматів, обов'язково пораджу друзям!", "rating": "4", "date": "21.07.2023", "id": 6},
-    {"name": "Софія", "text": "Ваші парфуми - справжній розкішний дарунок для себе.", "rating": "5", "date": "02.08.2023", "id": 7},
-    {"name": "Ірина", "text": "Аромат як уві сні, просто чарівно!", "rating": "5", "date": "11.08.2023", "id": 8},
-    {"name": "Олена", "text": "Ваш магазин - перлина серед парфумерій, обов'язково рекомендую!", "rating": "4", "date": "18.08.2023", "id": 9},
-    {"name": "Ангеліна", "text": "Приємно вражена великим вибором ароматів, купила для всієї родини!", "rating": "5", "date": "28.08.2023", "id": 10},
-    {"name": "Наталія", "text": "Ваші парфуми - ідеальний подарунок для будь-якої події.", "rating": "4", "date": "07.09.2023", "id": 11},
-    {"name": "Дарина", "text": "Якість перевершує ціну, вражена довготривалістю аромату.", "rating": "5", "date": "16.09.2023", "id": 12},
-    {"name": "Юлія", "text": "Магазин вартує уваги, аромати як з казки!", "rating": "5", "date": "25.09.2023", "id": 13},
-    {"name": "Тетяна", "text": "Захоплююсь вашим вибором, кожен аромат - окрема історія.", "rating": "4", "date": "05.10.2023", "id": 14},
-    {"name": "Ольга", "text": "Несподівано приємний магазин, парфуми перевершили очікування.", "rating": "5", "date": "14.10.2023", "id": 15},
-    {"name": "Маргарита", "text": "Аромати, які ведуть у світ мрій, дякую вашому магазину!", "rating": "5", "date": "23.10.2023", "id": 16},
-    {"name": "Лариса", "text": "Купувала для чоловіка - він захоплений, тепер і я ваша постійна клієнтка.", "rating": "4", "date": "01.11.2023", "id": 17},
-    {"name": "Валентина", "text": "Аромати як відомі бренди, але за гораздо приємнішою ціною.", "rating": "5", "date": "10.11.2023", "id": 18},
-    {"name": "Роксолана", "text": "Завжди важко обрати, який парфум краще - всі прекрасні!", "rating": "5", "date": "19.11.2023", "id": 19},
-    {"name": "Світлана", "text": "Ви - справжній ароматичний рай для цінителів парфумів!", "rating": "4", "date": "28.11.2023", "id": 20},
-    {"name": "Надія", "text": "Обожнюю ваш магазин - тут завжди гарний вибір і нові аромати.", "rating": "5", "date": "06.12.2023", "id": 21},
-    {"name": "Тамара", "text": "Парфуми як поцілунки, легкі та неймовірно приємні.", "rating": "5", "date": "15.12.2023", "id": 22},
-    {"name": "Лілія", "text": "Ваш магазин - відкриття для мене, обов'язково знову прийду!", "rating": "4", "date": "24.12.2023", "id": 23},
-    {"name": "Зоряна", "text": "Аромати неймовірно тривалі, дуже задоволена своєю покупкою.", "rating": "5", "date": "02.01.2024", "id": 24},
-    {"name": "Олеся", "text": "Ваші парфуми стали частиною мого щоденного образу, дякую!", "rating": "5", "date": "11.01.2024", "id": 25},
-    {"name": "Милана", "text": "Парфуми, які підкреслюють мою індивідуальність, ви - найкращі!", "rating": "4", "date": "20.01.2024", "id": 46},
-    {"name": "Каріна", "text": "Купила аромат для мами - вона в захваті! Дуже дякую!", "rating": "5", "date": "29.01.2024", "id": 47},
-    {"name": "Діана", "text": "Аромат як частка весняного ранку, ви зробили мій день.", "rating": "5", "date": "07.02.2024", "id": 48},
-    {"name": "Жанна", "text": "Ваші парфуми - справжнє диво, чудова якість за адекватну ціну.", "rating": "4", "date": "16.02.2024", "id": 49},
-    {"name": "Інна", "text": "Обожнюю кожен аромат у вашому магазині, вони такі різноманітні!", "rating": "5", "date": "25.02.2024", "id": 50}
+    {"name": "Анна", "text": "Аромат просто чудовий, не могла відірвати ніс від запаху!", "rating": "5", "date": "15.06.2023", "productId": "1", "id":"1"},
+    {"name": "Вікторія", "text": "Ваш магазин - справжнє джерело чарівних ароматів!", "rating": "4", "date": "22.06.2023", "productId": "3", "id":"2"},
+    {"name": "Євгенія", "text": "Приємно здивована якістю парфумів, обов'язково повернусь!", "rating": "5", "date": "03.07.2023", "productId": "4", "id":"3"},
+    {"name": "Марія", "text": "Аромат як витвір мистецтва, неймовірно задоволена покупкою.", "rating": "5", "date": "12.07.2023", "productId": "5", "id":"4"},
+    {"name": "Катерина", "text": "Магазин вразив своєю різноманітністю ароматів, обов'язково пораджу друзям!", "rating": "4", "date": "21.07.2023", "productId": "6", "id":"5"},
+    {"name": "Софія", "text": "Ваші парфуми - справжній розкішний дарунок для себе.", "rating": "5", "date": "02.08.2023", "productId": "7", "id":"6"},
+    {"name": "Олена", "text": "Ваш магазин - перлина серед парфумерій, обов'язково рекомендую!", "rating": "4", "date": "18.08.2023", "productId": "9", "id":"7"},
+    {"name": "Ангеліна", "text": "Приємно вражена великим вибором ароматів, купила для всієї родини!", "rating": "5", "date": "28.08.2023", "productId": "10", "id":"8"},
+    {"name": "Наталія", "text": "Ваші парфуми - ідеальний подарунок для будь-якої події.", "rating": "4", "date": "07.09.2023", "productId": "11", "id":"9"},
+    {"name": "Дарина", "text": "Якість перевершує ціну, вражена довготривалістю аромату.", "rating": "5", "date": "16.09.2023", "productId": "12", "id":"10"},
+    {"name": "Юлія", "text": "Магазин вартує уваги, аромати як з казки!", "rating": "5", "date": "25.09.2023", "productId": "13", "id":"11"},
+    {"name": "Тетяна", "text": "Захоплююсь вашим вибором, кожен аромат - окрема історія.", "rating": "4", "date": "05.10.2023", "productId": "14", "id":"12"},
+    {"name": "Ольга", "text": "Несподівано приємний магазин, парфуми перевершили очікування.", "rating": "5", "date": "14.10.2023", "productId": "15", "id":"13"},
+    {"name": "Маргарита", "text": "Аромати, які ведуть у світ мрій, дякую вашому магазину!", "rating": "5", "date": "23.10.2023", "productId": "16", "id":"14"},
+    {"name": "Лариса", "text": "Купувала для чоловіка - він захоплений, тепер і я ваша постійна клієнтка.", "rating": "4", "date": "01.11.2023", "productId": "17", "id":"15"},
+    {"name": "Валентина", "text": "Аромати як відомі бренди, але за гораздо приємнішою ціною.", "rating": "5", "date": "10.11.2023", "productId": "18", "id":"16"},
+    {"name": "Роксолана", "text": "Завжди важко обрати, який парфум краще - всі прекрасні!", "rating": "5", "date": "19.11.2023", "productId": "19", "id":"17"},
+    {"name": "Світлана", "text": "Ви - справжній ароматичний рай для цінителів парфумів!", "rating": "4", "date": "28.11.2023", "productId": "20", "id":"18"},
+    {"name": "Надія", "text": "Обожнюю ваш магазин - тут завжди гарний вибір і нові аромати.", "rating": "5", "date": "06.12.2023", "productId": "21", "id":"19"},
+    {"name": "Тамара", "text": "Парфуми як поцілунки, легкі та неймовірно приємні.", "rating": "5", "date": "15.12.2023", "productId": "22", "id":"20"},
+    {"name": "Лілія", "text": "Ваш магазин - відкриття для мене, обов'язково знову прийду!", "rating": "4", "date": "24.12.2023", "productId": "23", "id":"21"},
+    {"name": "Зоряна", "text": "Аромати неймовірно тривалі, дуже задоволена своєю покупкою.", "rating": "5", "date": "02.01.2024", "productId": "24", "id":"22"},
+    {"name": "Олеся", "text": "Ваші парфуми стали частиною мого щоденного образу, дякую!", "rating": "5", "date": "11.01.2024", "productId": "25", "id":"23"},
+    {"name": "Милана", "text": "Парфуми, які підкреслюють мою індивідуальність, ви - найкращі!", "rating": "4", "date": "20.01.2024", "productId": "46", "id":"24"},
+    {"name": "Каріна", "text": "Купила аромат для мами - вона в захваті! Дуже дякую!", "rating": "5", "date": "29.01.2024", "productId": "47", "id":"25"},
+    {"name": "Діана", "text": "Аромат як частка весняного ранку, ви зробили мій день.", "rating": "5", "date": "07.02.2024", "productId": "48", "id":"26"},
+    {"name": "Жанна", "text": "Ваші парфуми - справжнє диво, чудова якість за адекватну ціну.", "rating": "4", "date": "16.02.2024", "productId": "49", "id":"27"},
+    {"name": "Інна", "text": "Обожнюю кожен аромат у вашому магазині, вони такі різноманітні!", "rating": "5", "date": "25.02.2024", "productId": "50", "id":"28"},
+    {"name": "Ірина", "text": "Аромат як уві сні, просто чарівно!", "rating": "5", "date": "11.08.2023", "productId": "8", "id":"29"}
   ],  
   "orders": [],
   "users": []
