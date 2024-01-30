@@ -1192,5 +1192,48 @@
     {"name": "Ірина", "text": "Аромат як уві сні, просто чарівно!", "rating": 5, "date": "11.08.2023", "productId": "8", "id":"29"}
   ],  
   "orders": [],
-  "users": []
+  "users": [],
+  "hero": [ 
+    {
+    "type": "top", 
+    "title": "Неймовірні знижки до дня народження", 
+    "text1": "Знижки до 70% до нашого першого дня напродження", 
+    "text2": null, 
+    "price": null, 
+    "sale": null, 
+    "link":"/catalog?mainCategory=sale",
+    "id":"1"
+  },
+  {
+  "type": "top", 
+  "title": "Відкрийте світ парфумів, що розповідають вашу історію", 
+  "text1": null, 
+  "text2": null, 
+  "price": null, 
+  "sale": null,  
+  "link": "/catalog",
+  "id":"2"
+},
+{
+"type": "top", 
+"title1": "Якість, яку можна вдихнути: парфуми з доступною ціною.", 
+"text1": null, 
+"text2": null, 
+"price": null, 
+"sale": null,   
+"link": "/catalog",
+"id":"3"
+}
+,
+{
+"type": "product", 
+"title1": "Lanvin Eclat dArpege", 
+"text1": null, 
+"text2": "Де кожен аромат - витвір мистецтва вашого стилю.", 
+"price1": 899, 
+"sale1": 20,   
+"link": "/product/1",
+"id":"4"
+}
+  ]
 }
